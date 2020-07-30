@@ -139,8 +139,10 @@ A list of resources for SuperMemo users.
 
 ### Blogs
 
-- [Master How To Learn](https://www.masterhowtolearn.com/)
-- [Georgios Zonnios](https://georgios.blog/)
+- [Master How To Learn](https://www.masterhowtolearn.com/) - Blog by hnous
+- [Georgios Zonnios](https://georgios.blog/) - Eponymous blog
+- [Again.blog](https://again.blog/) - Blog by strategypattern
+- [Incrium](https://www.incrium.com/) - Blog by raj
 - [Procedural Supermemo](https://incrementally-do.blogspot.com/?m=1) - Last Post 2014
 - [The Supermemo Blog](https://thesupermemoblog.wordpress.com/) - Last Post 2015
 - [Supermemo Adventures](http://supermemoadventures.blogspot.com/2012/10/incremental-reading-what-is-of-value.html) - Last Post 2016
