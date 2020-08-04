@@ -19,6 +19,7 @@ A list of resources for SuperMemo users.
   - [PDF to SuperMemo](#pdf-to-supermemo-conversion)
   - [Notetaking apps](#notetaking-apps)
   - [Browser plugins](#browser-plugins)
+- [Podcasts](#podcasts)
 - [Blogs](#blogs)
 - [Articles](#articles-on-spaced-repetition-and-supermemo)
 
@@ -137,6 +138,10 @@ A list of resources for SuperMemo users.
 ### Browser Plugins
 
 - [Open in IE](https://chrome.google.com/webstore/detail/open-in-ie/looohpideggedchhpphemdmppnmdkgfd?hl=en) - For moving articles to IE for mass import
+
+### Podcasts
+
+- [Golden Nuggets Podcast](https://www.youtube.com/channel/UC9PA26yTZOsJB_wHJXN6sKg) - Podcasts by SuperMemo users jamesb (@bjsi) and strategypattern
 
 ### Blogs
 
