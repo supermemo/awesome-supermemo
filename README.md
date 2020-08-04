@@ -116,6 +116,7 @@ A list of resources for SuperMemo users.
 
 - [Article Parser](https://articleparser.win/) - Removes unwanted formatting from imported articles
 - [Storepiece](https://storepiece.com) - For storing and sharing items
+- [Combine ePub](https://storepiece.com/combine-ebook) - For easily coalescing your ePub books into a single, SuperMemo-friendly html file
 - [Mathpix](https://mathpix.com/) - For converting math pictures & screenshots to LaTeX
 - [Quick priority](https://cdn.discordapp.com/attachments/421645841003053057/684904346953318403/quick_prio.ahk) - Script for binding Alt+0-9 in numpad to quickly prioritize your elements
 - [Quick intervals](https://www.reddit.com/r/super_memo/comments/c2euh4/i_made_a_simple_ahk_script_where_you_can_use_your/) - Script for quick changing of interval
