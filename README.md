@@ -40,9 +40,9 @@ A list of resources for SuperMemo users.
   - [Olive Green](https://OliveGreenTheMovie.com) - Site dedicated to the first interactive SuperMemo movie (Olive Green)
 
 ### Official Emails
-
-- bug2020@supermemo.org - Bug Reporting
-- woz2020@supermemo.org - Piotr Wozniak
+Updated yearl:
+- bug2020 (@) supermemo (.) org - Bug Reporting
+- woz2020 (@) supermemo (.) org - Piotr Wozniak
 
 ## Community content
 
