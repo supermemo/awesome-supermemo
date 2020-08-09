@@ -39,8 +39,8 @@ A list of resources for SuperMemo users.
   - [supermemo.com](https://supermemo.com) - Online SuperMemo (Web & Browser), and associated applications
   - [Olive Green](https://OliveGreenTheMovie.com) - Site dedicated to the first interactive SuperMemo movie (Olive Green)
 
-### Official Emails
-Updated yearl:
+### Official Emails (Updated yearly)
+
 - bug2020 (@) supermemo (.) org - Bug Reporting
 - woz2020 (@) supermemo (.) org - Piotr Wozniak
 
