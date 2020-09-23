@@ -57,6 +57,7 @@ A list of resources for SuperMemo users.
 
 - [SuperMemo Video](https://www.youtube.com/channel/UCqmYtieCc3liSTYxLwk_MLw) - Official channel, presented by Dr. Wozniak
 - [Supermemo Community](https://www.youtube.com/channel/UCMdkN_8gHPn5vlYDe2ScrxQ) - Community channel, presented by members of the supermemo.wiki community (this GitHub)
+- [Pleasurable Learning](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA) - User channel (Guillem Palausalva)
 - [Luke Avendon](https://www.youtube.com/channel/UCKSNZBxGaB7SWb-seJLjWKQ) - User channel (Luke Avedon)
 - [Sven Uses SuperMemo](https://www.youtube.com/channel/UCboagsweD13q2gI38hEjV1A) - User channel dedicated to SM (Sven)
 
@@ -90,6 +91,7 @@ A list of resources for SuperMemo users.
 ### Community
 
 - [Supermemo Wiki](https://supermemo.wiki/#/) - Community guides & documentation for SuperMemo (🚧 work in progress)
+- [A Fool's guide to SM](https://www.youtube.com/watch?v=i33BTuwTgAs&list=PL7RwmzKKAH8eKbDpOe5e-Omfp2Zqed6U1&index=1)
 - [SuperMemo Lore](https://github.com/supermemo/SuperMemoLore) - Collected wisdom & tips gathered from Discord
 - [SM Tips](https://cdn.discordapp.com/attachments/421645841003053057/615920920745213972/SMTips.rar) - Series of screenshots with SMtips
 
