@@ -49,6 +49,7 @@ A list of resources for SuperMemo users.
 ### Discussion groups
 
 - [SuperMemo.wiki Discord](https://discord.gg/vUQhqCT) - Most active chat server, run by the supermemo.wiki community (this GitHub)
+- [SuperMemo Discord Archives](https://archives.supermemo.wiki/) - This repository hosts archives from SuperMemo Discord servers
 - [Subreddit](https://www.reddit.com/r/Super_Memo/) - Most active and maintained SuperMemo Subreddit
 - [Subreddit](https://www.reddit.com/r/SuperMemo/) - Unmaintained SuperMemo Subreddit
 
