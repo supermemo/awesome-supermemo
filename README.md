@@ -59,6 +59,7 @@ A list of resources for SuperMemo users.
 - [Pleasurable Learning](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA) - User channel (Guillem Palausalva)
 - [Luke Avendon](https://www.youtube.com/channel/UCKSNZBxGaB7SWb-seJLjWKQ) - User channel (Luke Avedon)
 - [Sven Uses SuperMemo](https://www.youtube.com/channel/UCboagsweD13q2gI38hEjV1A) - User channel dedicated to SM (Sven)
+- [Flashcard guy](https://www.youtube.com/channel/UCpkWsnAPl-rhGwUOqdi2Vow) - User channel (LittleFishChan, see also [Supermemo Adventures](http://supermemoadventures.blogspot.com/))
 
 ## Documentation
 
@@ -153,7 +154,8 @@ A list of resources for SuperMemo users.
 - [Incrium](https://www.incrium.com/) - Blog by raj
 - [Procedural Supermemo](https://incrementally-do.blogspot.com/?m=1) - Last Post 2014
 - [The Supermemo Blog](https://thesupermemoblog.wordpress.com/) - Last Post 2015
-- [Supermemo Adventures](http://supermemoadventures.blogspot.com/2012/10/incremental-reading-what-is-of-value.html) - Last Post 2016
+- [Supermemo Adventures](http://supermemoadventures.blogspot.com/) - Last Post 2016
+
 
 ### Articles on Spaced Repetition and Supermemo
 
