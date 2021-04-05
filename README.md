@@ -57,6 +57,7 @@ A list of resources for SuperMemo users.
 - [SuperMemo Video](https://www.youtube.com/channel/UCqmYtieCc3liSTYxLwk_MLw) - Official channel, presented by Dr. Wozniak
 - [Supermemo Community](https://www.youtube.com/channel/UCMdkN_8gHPn5vlYDe2ScrxQ) - Community channel, presented by members of the supermemo.wiki community (this GitHub)
 - [Pleasurable Learning](https://www.youtube.com/channel/UCus-Fyf-I-Le1vS4tfZ_GlA) - User channel (Guillem Palausalva)
+- [Flashcard guy](https://www.youtube.com/channel/UCpkWsnAPl-rhGwUOqdi2Vow) - User channel (same author of - [Supermemo Adventures](http://supermemoadventures.blogspot.com/2012/10/incremental-reading-what-is-of-value.html))
 - [Luke Avendon](https://www.youtube.com/channel/UCKSNZBxGaB7SWb-seJLjWKQ) - User channel (Luke Avedon)
 - [Sven Uses SuperMemo](https://www.youtube.com/channel/UCboagsweD13q2gI38hEjV1A) - User channel dedicated to SM (Sven)
 
@@ -151,9 +152,10 @@ A list of resources for SuperMemo users.
 - [Georgios Zonnios](https://georgios.blog/) - Eponymous blog
 - [Again.blog](https://again.blog/) - Blog by strategypattern
 - [Incrium](https://www.incrium.com/) - Blog by raj
+- [Supermemo Adventures](http://supermemoadventures.blogspot.com/2012/10/incremental-reading-what-is-of-value.html)
 - [Procedural Supermemo](https://incrementally-do.blogspot.com/?m=1) - Last Post 2014
 - [The Supermemo Blog](https://thesupermemoblog.wordpress.com/) - Last Post 2015
-- [Supermemo Adventures](http://supermemoadventures.blogspot.com/2012/10/incremental-reading-what-is-of-value.html) - Last Post 2016
+
 
 ### Articles on Spaced Repetition and Supermemo
 
